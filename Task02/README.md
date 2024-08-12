@@ -61,10 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me at [shahidahamed3214@gmail.com](shahidahamed3214@gmail.com).
-
 ---
 
 Enjoy playing Rock-Paper-Scissors!
